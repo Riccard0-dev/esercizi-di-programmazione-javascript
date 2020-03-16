@@ -17,3 +17,8 @@
 
   http://www.imparareaprogrammare.it
 */
+var cats = 10;
+var cats2 = 5;
+var file = cats/cats2;
+console.log(file);
+
